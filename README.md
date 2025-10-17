@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Correa</h1>
 <h3 align="center">A passionate QA Engineer from Venezuela, currently located at Colombia</h3>
 
-- 🔭 I’m currently working on **Built Global**
+- 🔭 I’m currently working on **Highspring Digital**
 
 - 🌱 I’m currently learning **Advanced SQL, Docker and Frontend development frameworks like next.js**
 
